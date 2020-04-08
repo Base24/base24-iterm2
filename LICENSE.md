@@ -2,6 +2,10 @@
 
 Copyright (c) 2020 Base24
 
+Copyright (c) 2017-2018 Martin Lindhe
+
+Copyright (C) 2012-2017 Chris Kempson
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
